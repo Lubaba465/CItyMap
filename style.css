@@ -1,0 +1,26 @@
+*{
+margin: 0;
+    padding: 0;
+
+}
+.main{
+ background: linear-gradient(110.34deg, #0470DC -2.02%, #13F1FC 129.72%);
+}
+.nav{
+
+    padding: 25px 100px  15px;
+}
+.nav div{
+    position: absolute;
+    right: 100px;
+    display: flex;
+    gap: 40px;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+
+}
+/*
+https://www.figma.com/file/P1FlC89cRv1T5OEKpiCLVxJd/CityMap-Landing-Page?node-id=0%3A2*/
